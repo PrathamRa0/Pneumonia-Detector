@@ -9,5 +9,12 @@ A list of training images are shown to the machine for it to learn the differenc
 * Tensorflow
 * Keras
 
-## Pre-requisites ##
+## Prerequisites: ##
 * For Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+## Usage: ##
+* Download and zip the dataset file
+* Upload it to your drive
+* Open `Pneumonia.ipynb` using google colab and mount the drive
+* Start training the dataset
+* Upload the X-Ray image and get the result.
