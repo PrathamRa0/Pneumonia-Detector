@@ -8,3 +8,6 @@ A list of training images are shown to the machine for it to learn the differenc
 * Python
 * Tensorflow
 * Keras
+
+## Pre-requisites ##
+* For Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
