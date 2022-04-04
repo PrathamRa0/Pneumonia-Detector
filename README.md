@@ -2,7 +2,7 @@
 Machine Learning Model to detect Pneumonia in patients using X-Rays images.
 
 The machine is trained using a deep convolutional network layer to get the significant differences between a normal patient and a patient suffering from Pneumonia.
-A list of training images are shown to the machine for it to learn the differences.
+A list of training images are shown to the machine for it to learn the differences. Then the machine predicts and tells us if the patient is suffering from Pneumonia or not.
 
 ## Built With: ##
 * Python
